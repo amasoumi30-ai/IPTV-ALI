@@ -1,0 +1,40 @@
+#EXTM3U
+# Iran/Persian compatibility playlist - public HLS streams
+# Built for testing IPTV/XCIPTV compatibility
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir" group-title="IRIB",iFilm
+https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir" group-title="IRIB International",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2_4_482/index.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir" group-title="IRIB International",Iran Press
+https://ip2stream.iranpress.com/hls/ip2.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" group-title="IRIB International",Press TV
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="GEMPixel.tr" group-title="Persian General",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 tvg-id="HomePlus.ir" group-title="Persian General",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVITN.ir" group-title="Persian General",ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NovinTV.ir" group-title="Persian General",Novin TV
+https://stream.novin.live/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="OXIRTV.ir" group-title="Persian General",Oxir TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RaviTV.us" group-title="Persian General",Ravi TV
+https://hls.ravitv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TapeshIran.us" group-title="Persian General",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.us" group-title="Persian General",Tapesh TV
+https://hls.tapeshtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="247BoxTV.ir" group-title="Persian Film & Series",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4UTV.tr" group-title="Persian Film & Series",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AfraFilm.ir" group-title="Persian Film & Series",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AraxTV.ir" group-title="Persian Film & Series",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CafeFilm.ir" group-title="Persian Film & Series",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae" group-title="Persian Film & Series",MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
