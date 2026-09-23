@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Iran",Iran - Public Channels
+https://iptv-org.github.io/iptv/countries/ir.m3u
+
+#EXTINF:-1 group-title="Germany",Germany - Public Channels
+https://iptv-org.github.io/iptv/countries/de.m3u
+
+#EXTINF:-1 group-title="Turkiye",Turkiye - Public Channels
+https://iptv-org.github.io/iptv/countries/tr.m3u
+
+#EXTINF:-1 group-title="Arab World",Arab World - Public Channels
+https://iptv-org.github.io/iptv/regions/arab.m3u
+
+#EXTINF:-1 group-title="United States",United States - Public Channels
+https://iptv-org.github.io/iptv/countries/us.m3u
+
+#EXTINF:-1 group-title="United Kingdom",United Kingdom - Public Channels
+https://iptv-org.github.io/iptv/countries/uk.m3u
+
+#EXTINF:-1 group-title="Sports",Sports - Public Channels
+https://iptv-org.github.io/iptv/categories/sports.m3u
