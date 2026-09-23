@@ -1,0 +1,9 @@
+#EXTM3U
+# English-language Movies + Series
+# Stable upstream category playlists from iptv-org
+# Open the two source playlists below if your player supports nested playlists poorly.
+
+#EXTINF:-1 group-title="English Movies & Series",Movies - iptv-org
+https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 group-title="English Movies & Series",Series - iptv-org
+https://iptv-org.github.io/iptv/categories/series.m3u
