@@ -1,51 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB1.ir.png" group-title="Iran",IRIB TV1
-https://live-aburayhan1105.telewebion.net/ek/tv1/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB2.ir.png" group-title="Iran",IRIB TV2
-https://live-aburayhan1110.telewebion.net/ek/tv2/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB3.ir.png" group-title="Iran",IRIB TV3
-https://live-aburayhan1109.telewebion.net/ek/tv3/live/108050p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB4.ir.png" group-title="Iran",IRIB TV4
-https://live-aburayhan1106.telewebion.net/ek/tv4/live/576p/index.m3u8
-#EXTINF:-1 tvg-id="TehranTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TehranTV.ir.png" group-title="Iran",IRIB TV5 Tehran
-https://live-aburayhan1110.telewebion.net/ek/tehran/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/GolkhaneTv.ir.png" group-title="Iran",Golkhane
-https://live-aburayhan1112.telewebion.net/na/golkhane/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmPersian.ir.png" group-title="Iran",iFilm
-https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8
-#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AmouzeshTV.ir.png" group-title="Iran",IRIB Amoozesh
-https://live-aburayhan1109.telewebion.net/ek/amouzesh/live/576p/index.m3u8
-#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBMostanad.ir.png" group-title="Iran",IRIB Mostanad
-https://live-aburayhan1113.telewebion.net/ek/mostanad/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/NamayeshTV.ir.png" group-title="Iran",IRIB Namayesh
-https://live-aburayhan1113.telewebion.net/ek/namayesh/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/Nasim.ir.png" group-title="Iran",IRIB Nasim
-https://live-aburayhan1104.telewebion.net/ek/nasim/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="OfoghTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/OfoghTV.ir.png" group-title="Iran",IRIB Ofogh
-https://live-aburayhan1107.telewebion.net/ek/ofogh/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBOmid.ir.png" group-title="Iran",IRIB Omid
-https://live-aburayhan1107.telewebion.net/ek/omid/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PooyaTV.ir.png" group-title="Iran",IRIB Pooya & Nahal
-https://live-aburayhan1108.telewebion.net/ek/pooya/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/QuranTV.ir.png" group-title="Iran",IRIB Quran
-https://live-aburayhan1105.telewebion.net/ek/quran/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SalamatTV.ir.png" group-title="Iran",IRIB Salamat
-https://live-aburayhan1109.telewebion.net/ek/salamat/live/576p/index.m3u8
-#EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/Tamasha.ir.png" group-title="Iran",IRIB Tamasha
-https://live-aburayhan1111.telewebion.net/ek/hdtest/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB1Plus.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB1Plus.ir.png" group-title="Iran",IRIB TV1+
-https://live-aburayhan1111.telewebion.net/na/tv1plus/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRIBUHD.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBUHD.ir.png" group-title="Iran",IRIB UHD
-https://live-aburayhan1101.telewebion.net/ek/faratar/live/1440p/index.m3u8
-#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/VarzeshTV.ir.png" group-title="Iran",IRIB Varzesh [IR]
-https://live-aburayhan1108.telewebion.net/ek/varzesh/live/108050p/index.m3u8
-#EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN.ir.png" group-title="Iran",IRINN
-http://185.9.2.18/chid_926/index.m3u8
-#EXTINF:-1 tvg-id="IRINN2.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN2.ir.png" group-title="Iran",IRINN 2
-https://live-aburayhan1104.telewebion.net/ek/irinn2/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="RoyaTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/RoyaTV.ir.png" group-title="Iran",Roya
-https://live-aburayhan1113.telewebion.net/na/iribu/live/720p/index.m3u8
+# Iran / Persian streams selected to avoid Telewebion geo-restricted endpoints
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmPersian.ir.png" group-title="Iran",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilm2.ir.png" group-title="Iran",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg" group-title="Iran",Iran Press
+https://ip2stream.iranpress.com/hls/ip2.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/MihanTV.ir.png" group-title="Iran",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfraFilm.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AfraFilm.ir.png" group-title="Iran",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AraxTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AraxTV.ir.png" group-title="Iran",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IranComedy.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranComedy.ir.png" group-title="Iran",Iran Comedy
+https://iran613hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/MaahTV.my.png" group-title="Iran",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/MBCPersia.ae.png" group-title="Iran",MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AlAlam.ir.png" group-title="Iran",Al Alam
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PressTV.ir.png" group-title="Iran",Press TV
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PressTVFrench.ir.png" group-title="Iran",Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/HispanTV.ir.jpg" group-title="Iran",HispanTV
+https://live.presstv.co.uk/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Germany",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
