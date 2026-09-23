@@ -1,22 +1,84 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Iran",Iran - Public Channels
-https://iptv-org.github.io/iptv/countries/ir.m3u
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" group-title="Iran",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir@SD" group-title="Iran",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" group-title="Iran",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="SNNTV.ir@SD" group-title="Iran",SNN TV
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir@SD" group-title="Iran",Al Alam
+https://live2.alalam.ir/alalam.m3u8
 
-#EXTINF:-1 group-title="Germany",Germany - Public Channels
-https://iptv-org.github.io/iptv/countries/de.m3u
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Germany",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" group-title="Germany",BR Fernsehen Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD" group-title="Germany",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" group-title="Germany",NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" group-title="Germany",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="Germany",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 group-title="Turkiye",Turkiye - Public Channels
-https://iptv-org.github.io/iptv/countries/tr.m3u
+#EXTINF:-1 tvg-id="ATV.tr@SD" group-title="Turkiye",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="Turkiye",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr@SD" group-title="Turkiye",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Turkiye",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr@SD" group-title="Turkiye",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 group-title="Arab World",Arab World - Public Channels
-https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 tvg-id="Alhurra.us@SD" group-title="Arab World",Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="AlhurraIraq.us@SD" group-title="Arab World",Alhurra Iraq
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" group-title="Arab World",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" group-title="Arab World",iFilm Arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
 
-#EXTINF:-1 group-title="United States",United States - Public Channels
-https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF:-1 tvg-id="48Hours.us@US" group-title="United States",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us@SD" group-title="United States",Alabama Weather Network
+https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us@SD" group-title="United States",AKC TV
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AccessNashua.us@SD" group-title="United States",Access Nashua
+https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="United Kingdom",United Kingdom - Public Channels
-https://iptv-org.github.io/iptv/countries/uk.m3u
+#EXTINF:-1 tvg-id="BloombergTV.us@Europe" group-title="United Kingdom",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD" group-title="United Kingdom",Brit Asia TV
+https://hls.autopo.st/hls/britasiatv/index.m3u8
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="United Kingdom",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD" group-title="United Kingdom",Ahlulbayt TV
+https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Sports - Public Channels
-https://iptv-org.github.io/iptv/categories/sports.m3u
+#EXTINF:-1 tvg-id="VarzeshTV.ir@SD" group-title="Sports Iran",Varzesh TV
+https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports1.ae" group-title="Sports Arab",Dubai Sports 1
+https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" group-title="Sports Arab",Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" group-title="Sports Arab",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" group-title="Sports Germany",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Sports United Kingdom",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="Sports Turkiye",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Sports Turkiye",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
