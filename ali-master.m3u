@@ -1320,3 +1320,13 @@ https://fighthls.persiana.live/hls/stream.m3u8
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ParsTV.us" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="Iran History - Diaspora",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
+
+# ---- Germany ----
+#EXTINF:-1 group-title="Country Playlists",Germany - All Public Channels
+https://iptv-org.github.io/iptv/countries/de.m3u
+# ---- Italy ----
+#EXTINF:-1 group-title="Country Playlists",Italy - All Public Channels
+https://iptv-org.github.io/iptv/countries/it.m3u
+# ---- Spain ----
+#EXTINF:-1 group-title="Country Playlists",Spain - All Public Channels
+https://iptv-org.github.io/iptv/countries/es.m3u
