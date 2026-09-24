@@ -1,0 +1,7 @@
+#EXTM3U
+# Persian diaspora channels with Iran history/culture programming
+# No IRIB channels included
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="Iran History - Diaspora",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParsTV.us" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="Iran History - Diaspora",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
