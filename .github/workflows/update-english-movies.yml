@@ -1,0 +1,103 @@
+name: Update English Movies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build tested English movie playlist
+        shell: bash
+        run: |
+          python - <<'PY'
+          import urllib.request, re, concurrent.futures, time
+
+          MOVIES='https://iptv-org.github.io/iptv/categories/movies.m3u'
+          ENGLISH='https://iptv-org.github.io/iptv/languages/eng.m3u'
+          UA='Mozilla/5.0 IPTV-ALI/1.0'
+
+          def get(url, timeout=15, maxbytes=None):
+              req=urllib.request.Request(url, headers={'User-Agent':UA})
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  data=r.read(maxbytes) if maxbytes else r.read()
+                  return data.decode('utf-8','ignore')
+
+          def parse(text):
+              out=[]; meta=None
+              for raw in text.splitlines():
+                  line=raw.strip()
+                  if line.startswith('#EXTINF:'): meta=line
+                  elif meta and line and not line.startswith('#'):
+                      out.append((meta,line)); meta=None
+              return out
+
+          movies=parse(get(MOVIES,30))
+          english=parse(get(ENGLISH,30))
+          eng_ids=set()
+          eng_urls=set(u for _,u in english)
+          for m,u in english:
+              x=re.search(r'tvg-id="([^"]+)"',m)
+              if x: eng_ids.add(x.group(1))
+
+          candidates=[]; seen=set()
+          for m,u in movies:
+              x=re.search(r'tvg-id="([^"]+)"',m)
+              cid=x.group(1) if x else ''
+              if (cid in eng_ids or u in eng_urls) and u not in seen:
+                  seen.add(u); candidates.append((m,u))
+
+          def validate(item):
+              m,u=item
+              try:
+                  req=urllib.request.Request(u,headers={'User-Agent':UA})
+                  with urllib.request.urlopen(req,timeout=10) as r:
+                      ct=(r.headers.get('content-type') or '').lower()
+                      b=r.read(131072)
+                  s=b.decode('utf-8','ignore')
+                  if '#EXTM3U' not in s and 'mpegurl' not in ct:
+                      return None
+                  # For HLS media playlists, verify at least one segment/variant is reachable.
+                  base=u.rsplit('/',1)[0]+'/'
+                  refs=[x.strip() for x in s.splitlines() if x.strip() and not x.startswith('#')]
+                  if refs:
+                      from urllib.parse import urljoin
+                      test=urljoin(u,refs[0])
+                      req2=urllib.request.Request(test,headers={'User-Agent':UA})
+                      with urllib.request.urlopen(req2,timeout=10) as r2:
+                          r2.read(1024)
+                  return item
+              except Exception:
+                  return None
+
+          good=[]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=24) as ex:
+              for r in ex.map(validate,candidates):
+                  if r: good.append(r)
+
+          # Preserve source metadata, but group everything clearly as English Movies.
+          lines=['#EXTM3U', '# English Movies - automatically refreshed and stream-tested', f'# Updated: {time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())}', f'# Working at build time: {len(good)} / {len(candidates)} candidates']
+          for m,u in good:
+              if 'group-title=' in m:
+                  m=re.sub(r'group-title="[^"]*"','group-title="English Movies"',m)
+              else:
+                  m=m.replace(',', ' group-title="English Movies",',1)
+              lines += [m,u]
+          open('english-movies-auto.m3u','w',encoding='utf-8').write('\n'.join(lines)+'\n')
+          print('candidates',len(candidates),'working',len(good))
+          PY
+      - name: Commit refreshed playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add english-movies-auto.m3u
+          git diff --cached --quiet && exit 0
+          git commit -m "Auto-refresh tested English movie streams"
+          git push
