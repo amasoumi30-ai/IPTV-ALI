@@ -1,0 +1,8 @@
+{
+  "name": "iptv-ali",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Railway-ready server for IPTV-ALI playlists",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"}
+}
