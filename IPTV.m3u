@@ -2732,7 +2732,7 @@ http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive
 http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Documentary2%2Fchunks.m3u8
 
 #EXTINF:-1 tvg-id="GEMTV.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Iran",GEM TV
-http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520TV2%2Fchunks.m3u8
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520TV2%2Fchunks.m3u8
 
 #EXTINF:-1 tvg-id="GoldStar.ir@SD" group-title="Iran",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
