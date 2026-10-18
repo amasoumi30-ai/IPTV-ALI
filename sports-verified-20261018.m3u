@@ -5,3 +5,7 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom (720p)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="Sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
