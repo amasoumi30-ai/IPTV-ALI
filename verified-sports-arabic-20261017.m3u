@@ -142,3 +142,41 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sports",Belarus 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Junior
+https://ib.abntv.live/hls/gemjun.m3u8
+#EXTINF:-1 group-title="Iran",GEM Bollywood
+https://ib.abntv.live/hls/gembolly.m3u8
+#EXTINF:-1 group-title="Iran",IRIB 1
+https://ib.abntv.live/hls/irtv1.m3u8
+#EXTINF:-1 group-title="Iran",GEM TV
+https://ib.abntv.live/hls/gemtv.m3u8
+#EXTINF:-1 group-title="Iran",GEM Film
+https://ib.abntv.live/hls/gemfilm.m3u8
+#EXTINF:-1 group-title="Iran",GEM Nature
+https://ib.abntv.live/hls/gemnat.m3u8
+#EXTINF:-1 group-title="Iran",Iran Republic TV
+https://irrephls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran",GEM Series
+https://ib.abntv.live/hls/gemser.m3u8
+#EXTINF:-1 group-title="Iran",IRIB 2
+https://live-aburayhan1113.telewebion.net/ek/tv2/live/1080p/index.m3u8
+#EXTINF:-1 group-title="Iran",IRIB 3
+https://af.ayas.ir/hls2/tv3.m3u8
+#EXTINF:-1 group-title="Iran",GEM Classic
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520CLASSIC2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Comedy
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Comedy2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Fit
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520FIT2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Kids
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Kids2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Life
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Life2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Onyx
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520Gem%2520Onyx2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Pixel
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Pixel2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM River
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520Gem%2520River2%2Fplaylist.m3u8
+#EXTINF:-1 group-title="Iran",GEM Rubix
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Rubix2%2Fplaylist.m3u8
