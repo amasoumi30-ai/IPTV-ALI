@@ -2801,13 +2801,13 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://hls.irannrtv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Iran",IRIB 1 - NEW
-https://live-aburayhan1105.telewebion.net/ek/tv1/live/1080p/index.m3u8
+https://live-aburayhan1105.telewebion.net/ek/tv1/live/480p/index.m3u8
 
 #EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="Iran",IRIB 3 - NEW
-https://live-aburayhan1102.telewebion.net/ek/tv3/live/108050p/index.m3u8
+https://live-aburayhan1102.telewebion.net/ek/tv3/live/480p/index.m3u8
 
 #EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Iran",IRIB 2 - NEW
-https://live-aburayhan1113.telewebion.net/ek/tv2/live/1080p/index.m3u8
+https://live-aburayhan1113.telewebion.net/ek/tv2/live/480p/index.m3u8
 
 #EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="Iran",IRIB 4
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
