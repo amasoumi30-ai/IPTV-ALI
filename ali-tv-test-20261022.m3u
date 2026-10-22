@@ -1,0 +1,17 @@
+#EXTM3U
+#PLAYLIST:IPTV ALI - Five channel test 2026-10-22
+#EXTINF:-1 tvg-id="GEMClassic.tr@SD" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Iran",GEM Classic
+http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520CLASSIC2%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-id="GEMTV.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Iran",GEM TV
+https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520TV2%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Iran",IRIB 1 - NEW
+http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Flive-aburayhan1105.telewebion.net%2Fek%2Ftv1%2Flive%2F480p%2Findex.m3u8
+
+#EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="Iran",IRIB 3 - NEW
+http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Flive-aburayhan1102.telewebion.net%2Fek%2Ftv3%2Flive%2F480p%2Findex.m3u8
+
+#EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Iran",IRIB 2 - NEW
+http://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Flive-aburayhan1113.telewebion.net%2Fek%2Ftv2%2Flive%2F480p%2Findex.m3u8
+
