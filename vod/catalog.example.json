@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "title": "My licensed movie",
+      "url": "https://media.example.org/videos/movie.mp4",
+      "category": "Family",
+      "poster": "https://media.example.org/posters/movie.jpg",
+      "plot": "A sample movie. Replace with your own lawful media URL."
+    }
+  ],
+  "series": [
+    {
+      "title": "My Series",
+      "category": "Drama",
+      "poster": "",
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "title": "Episode 1",
+          "url": "https://media.example.org/series/s01e01.mp4"
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "title": "Episode 2",
+          "url": "https://media.example.org/series/s01e02.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+vod/media/
+vod/__pycache__/
+*.pyc
