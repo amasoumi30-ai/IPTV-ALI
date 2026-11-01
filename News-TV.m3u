@@ -3053,3 +3053,6 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="News",Baku TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
+#EXTINF:-1 group-title="News",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
