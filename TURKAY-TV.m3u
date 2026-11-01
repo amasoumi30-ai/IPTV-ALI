@@ -526,3 +526,5 @@ https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Undefined",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
+#EXTINF:-1 group-title="Turkey",TRT Arabic
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
