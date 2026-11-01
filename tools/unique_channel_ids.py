@@ -53,7 +53,7 @@ def main():
             if match:
                 line = line[:match.start(1)] + new_id + line[match.end(1):]
             else:
-                line = line.replace("#EXTINF:", '#EXTINF: tvg-id="' + new_id + '" ', 1)
+                line = re.sub(r"^(#EXTINF:\s*[^\s,]+)", lambda m: m.group(1) + ' tvg-id="' + new_id + '"', line, count=1)
             changed_ids.append((channel_number, name))
 
         if names_seen[name] > 1:
