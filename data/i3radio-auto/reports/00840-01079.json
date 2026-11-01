@@ -1,0 +1,246 @@
+{
+  "range": "00840-01079",
+  "scanned_pages": 240,
+  "candidate_stream_urls_tested": 94,
+  "distinct_video_working_urls": 56,
+  "pages_with_working_video": 47,
+  "working_page_names": [
+    {
+      "name": "13 Teleseries",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/13teleseries"
+    },
+    {
+      "name": "30A TV Classic Movies",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/30atvclassicmovies"
+    },
+    {
+      "name": "CG Entertainment",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/cgentertainment"
+    },
+    {
+      "name": "Cine Sony",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/cinesony"
+    },
+    {
+      "name": "Classic Cinema",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/classiccinema"
+    },
+    {
+      "name": "CrimeFlix",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/crimeflix"
+    },
+    {
+      "name": "Deshi TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/deshitv"
+    },
+    {
+      "name": "EBS Cinema",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/ebscinema"
+    },
+    {
+      "name": "Filmrise Horror",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/filmrisehorror"
+    },
+    {
+      "name": "Japanim TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/japanimtv"
+    },
+    {
+      "name": "Mhz Choice",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/mhz"
+    },
+    {
+      "name": "Noovo Cinéma",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/noovocinema"
+    },
+    {
+      "name": "Persiana Family",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/persianafamily"
+    },
+    {
+      "name": "Persiana Plus",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/persianaplus"
+    },
+    {
+      "name": "SL 1",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/sl1"
+    },
+    {
+      "name": "TVS Classic Movies",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tvsclassicmovies"
+    },
+    {
+      "name": "TVS Comedy Network",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tvscomedynetwork"
+    },
+    {
+      "name": "Xtrema Accion",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/xtremaaccion"
+    },
+    {
+      "name": "ACI Sport TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/acisporttv"
+    },
+    {
+      "name": "AS3 Sport TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/as3sporttv"
+    },
+    {
+      "name": "ATG Live",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/atglive"
+    },
+    {
+      "name": "Africa 24 Sport",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/africa24sport"
+    },
+    {
+      "name": "Big 12 Studios",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/big12studios"
+    },
+    {
+      "name": "DD Sports SD",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/ddsportssd"
+    },
+    {
+      "name": "FIFA+",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fifa"
+    },
+    {
+      "name": "FIFA+ France",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fifafrance"
+    },
+    {
+      "name": "FIFA+ Germany",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fifagermany"
+    },
+    {
+      "name": "FIFA+ Spain",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fifaspain"
+    },
+    {
+      "name": "FITE 24/7",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fite24-7"
+    },
+    {
+      "name": "FTF Sports",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/ftfsports"
+    },
+    {
+      "name": "FTV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/ftv"
+    },
+    {
+      "name": "FUEL TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fueltv"
+    },
+    {
+      "name": "FanDuel Racing",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fanduelracing"
+    },
+    {
+      "name": "FanDuel TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/fandueltv"
+    },
+    {
+      "name": "ITV Deportes",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/itvdeportes"
+    },
+    {
+      "name": "Kozoom TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/kozoomtv"
+    },
+    {
+      "name": "MTRSPT1",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/mtrspt1"
+    },
+    {
+      "name": "NBC Sports NOW",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/nbcsportsnow"
+    },
+    {
+      "name": "Real Madrid TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/realmadridtv"
+    },
+    {
+      "name": "SportsGrid",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/sportsgrid"
+    },
+    {
+      "name": "TOP Barca",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/topbarca-uk"
+    },
+    {
+      "name": "Tennis Channel",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tennischannel"
+    },
+    {
+      "name": "Trace Sport Stars",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tracesportstars"
+    },
+    {
+      "name": "VSiN",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/vsin"
+    },
+    {
+      "name": "W14DK-D 14.5 All Sports",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/w14dkd5"
+    },
+    {
+      "name": "Women&#039;s Sports Network",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/womenssportsnetwork"
+    },
+    {
+      "name": "beIN Sports XTRA en Español",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/sportsxtraenespanol"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-00840-01079"
+}

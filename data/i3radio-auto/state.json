@@ -1,12 +1,12 @@
 {
-  "next_start": 840,
+  "next_start": 1080,
   "completed": false,
-  "completed_batches": 1,
+  "completed_batches": 2,
   "description": "Pages 0-599 were scanned earlier on the user's PC. Automated scan continues from 600.",
   "publication": "Candidate results only; original playlists not modified automatically.",
-  "last_completed_range": "00600-00839",
-  "last_successful_video_urls": 113,
-  "last_successful_pages": 93,
-  "last_update_utc": "2026-11-01T16:07:51.568193+00:00",
+  "last_completed_range": "00840-01079",
+  "last_successful_video_urls": 56,
+  "last_successful_pages": 47,
+  "last_update_utc": "2026-11-01T20:53:34.570921+00:00",
   "total_profiles": 2601
 }
