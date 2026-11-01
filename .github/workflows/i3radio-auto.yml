@@ -1,0 +1,79 @@
+name: IPTV-ALI i3radio automatic TV scan
+
+on:
+  push:
+    paths:
+      - ".github/workflows/i3radio-auto.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-ali-i3radio-auto-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 105
+    steps:
+      - name: Checkout IPTV-ALI
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install scanner and multimedia dependencies
+        run: |
+          python -m pip install --disable-pip-version-check playwright==1.56.0 beautifulsoup4 requests
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python -m playwright install --with-deps chromium
+
+      - name: Scan next i3radio TV batch and prepare report
+        id: scan
+        run: python tools/i3radio_auto.py --limit 240
+
+      - name: Archive full report for manual validation
+        if: ${{ steps.scan.outputs.artifact_path != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.scan.outputs.artifact_name }}
+          path: ${{ steps.scan.outputs.artifact_path }}
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit cursor, discovery list, and public summary
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/i3radio-auto/
+          if git diff --cached --quiet; then
+            echo "No new scan state to commit."
+            exit 0
+          fi
+          git commit -m "Track automatic i3radio batch results"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              echo "Automatic scan progress saved."
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "Failed to save state after retries."
+          exit 1
+
+      - name: Show progress
+        if: always()
+        run: |
+          if [ -f data/i3radio-auto/state.json ]; then
+            cat data/i3radio-auto/state.json
+          fi
