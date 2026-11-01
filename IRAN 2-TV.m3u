@@ -553,3 +553,5 @@ https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="General",Zagros TV (Iran)
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Iran",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
