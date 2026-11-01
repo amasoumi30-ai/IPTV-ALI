@@ -3095,3 +3095,42 @@ https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="News",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+#EXTINF:-1 group-title="News",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 group-title="News",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="News",WeatherSpy
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
+#EXTINF:-1 group-title="News",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",Ausbiz
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 group-title="News",Palestine Mubasher
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1 group-title="News",Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:-1 group-title="News",Ecuavisa
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",KITV 4 Island News
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1 group-title="News",NBC Chicago News
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist404.m3u8
+#EXTINF:-1 group-title="News",Telemundo Noticias Florida
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist404.m3u8
+#EXTINF:-1 group-title="News",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="News",CTV Belarus
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="News",Telemundo Noticias Noreste
+https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist288.m3u8
+#EXTINF:-1 group-title="News",NBCU Telemundo Texas
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist404.m3u8
+#EXTINF:-1 group-title="News",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="News",NBCU Telemundo West
+https://nbcu-telemundowest-firetv.amagi.tv/playlist288.m3u8
+#EXTINF:-1 group-title="News",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
