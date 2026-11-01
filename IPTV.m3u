@@ -7704,3 +7704,56 @@ https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 https://nbcu-telemundowest-firetv.amagi.tv/playlist288.m3u8
 #EXTINF:-1 group-title="Afghanistan",Payam-e-Afghan TV
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
+#EXTINF:-1 group-title="India",TV9 Gujarati
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India",Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 group-title="India",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India",Janam TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+#EXTINF:-1 group-title="India",AKD Calcutta News
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1 group-title="India",Manorama News
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF:-1 group-title="USA",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_11.m3u8
+#EXTINF:-1 group-title="Iraq",Altaghier TV
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:-1 group-title="Bangladesh",NRB TV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",WTVQ-DT1
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+#EXTINF:-1 group-title="USA",Bloomberg Originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 group-title="India",Zee Rajasthan News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
+#EXTINF:-1 group-title="India",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="USA",WWAY-DT1
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+#EXTINF:-1 group-title="USA",CBS News Baltimore
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/0/chunklist.m3u8
+#EXTINF:-1 group-title="USA",Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/5ef0f396-c38b-4607-a7f9-4e041e5284a1/1.m3u8
+#EXTINF:-1 group-title="Germany",DW Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="India",TOI Global
+https://live.sli.ke/live/npnhm84gz9/fhd/stream.m3u8
+#EXTINF:-1 group-title="China",Zhejiang Economy
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="USA",NBC News NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_1.m3u8
+#EXTINF:-1 group-title="USA",Supreme Master Television
+https://cf-lbs.suprememastertv.com/origin/720p/playlist.m3u8
+#EXTINF:-1 group-title="USA",BEK News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belgium",Kanaal Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+#EXTINF:-1 group-title="Argentina",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 group-title="India",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
