@@ -4438,3 +4438,15 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.us@SD" tvg-logo="https://zplay.cl/img/ztv.png" group-title="General",ZTV (1080p)
 http://45.70.201.81:8000/play/a00u/index.m3u8
 
+#EXTINF:-1 group-title="USA",NBC Chicago News
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist404.m3u8
+#EXTINF:-1 group-title="USA",Telemundo Noticias Florida
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist404.m3u8
+#EXTINF:-1 group-title="USA",Telemundo Noticias Noreste
+https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist288.m3u8
+#EXTINF:-1 group-title="USA",NBCU Telemundo Texas
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist404.m3u8
+#EXTINF:-1 group-title="USA",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="USA",NBCU Telemundo West
+https://nbcu-telemundowest-firetv.amagi.tv/playlist288.m3u8
