@@ -131,3 +131,6 @@ https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/pl
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Germany",DW Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
