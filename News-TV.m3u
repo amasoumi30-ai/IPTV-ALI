@@ -3134,3 +3134,20 @@ https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 https://nbcu-telemundowest-firetv.amagi.tv/playlist288.m3u8
 #EXTINF:-1 group-title="News",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 group-title="News",NRB TV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News",WTVQ-DT1
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+#EXTINF:-1 group-title="News",Bloomberg Originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 group-title="News",WWAY-DT1
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+#EXTINF:-1 group-title="News",Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/5ef0f396-c38b-4607-a7f9-4e041e5284a1/1.m3u8
+#EXTINF:-1 group-title="News",Zhejiang Economy
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="News",Kanaal Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+#EXTINF:-1 group-title="News",ABC News Australia
+https://c.mjh.nz/abc-news.m3u8
