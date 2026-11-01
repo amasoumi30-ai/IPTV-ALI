@@ -1,0 +1,476 @@
+{
+  "range": "00600-00839",
+  "scanned_pages": 240,
+  "candidate_stream_urls_tested": 258,
+  "distinct_video_working_urls": 113,
+  "pages_with_working_video": 93,
+  "working_page_names": [
+    {
+      "name": "ABC WWAY 3",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/abcwway3"
+    },
+    {
+      "name": "Ananda Barta",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/anandabarta"
+    },
+    {
+      "name": "Awaaz India TV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/awaazindiatv"
+    },
+    {
+      "name": "Bharat Samachar",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/bharatsamachar"
+    },
+    {
+      "name": "CTVN AKD Plus",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/ctvnakdplus"
+    },
+    {
+      "name": "Chardikla Gurbaani TV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/chardiklagurbaanitv"
+    },
+    {
+      "name": "Chardikla Time TV North America",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/chardiklatimetvnorth"
+    },
+    {
+      "name": "Cnews Bharat",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/cnewsbharat"
+    },
+    {
+      "name": "HNN 24x7",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/hnn24x7"
+    },
+    {
+      "name": "India TV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/indiatv"
+    },
+    {
+      "name": "KXAS-DT1",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/kxas-dt1"
+    },
+    {
+      "name": "Kalinga TV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/kalingatv"
+    },
+    {
+      "name": "Kannur Vision",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/kannurvision"
+    },
+    {
+      "name": "Mirror Now",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/mirrornow"
+    },
+    {
+      "name": "NBC 5 Chicago Live News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/nbc5chicagolive"
+    },
+    {
+      "name": "NDTV Profit",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/ndtvprofit"
+    },
+    {
+      "name": "NDTV Rajasthan",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/ndtvrajasthan"
+    },
+    {
+      "name": "NTV Telugu",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/ntvtelugu"
+    },
+    {
+      "name": "NewTV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/newtv"
+    },
+    {
+      "name": "News 7 Tamil",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/news7tamil"
+    },
+    {
+      "name": "NewsWorld",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/newsworld"
+    },
+    {
+      "name": "OANPlus",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/oanplus"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/nhkworld"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zeeuttarpradesh"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/tvrinfo"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/wxxv-tvnews"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/sakshitv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/wvit-dt1"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/jantatv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/ddnewshd"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/prime9news"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/wedq-dt4"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/sansadtv1"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/ntdtvenglish"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/iranefardatv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/kashishnews"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/raftaarmedian"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/swatantratv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/wtvqabc36news"
+    },
+    {
+      "name": "Power TV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/powertv"
+    },
+    {
+      "name": "Pratidin Time",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/pratidintime"
+    },
+    {
+      "name": "Puthiya Thalaimurai",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/puthiyathalaimurai"
+    },
+    {
+      "name": "R Plus",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/rplus"
+    },
+    {
+      "name": "RTK 3",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/rtk3"
+    },
+    {
+      "name": "Radio Canada International",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/canadainternational"
+    },
+    {
+      "name": "Reporter TV",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/reportertv"
+    },
+    {
+      "name": "Sadhna Plus News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/sadhnaplusnews"
+    },
+    {
+      "name": "Samay Kolkata",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/samaykolkata"
+    },
+    {
+      "name": "Sansad TV 2",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/sansadtv2"
+    },
+    {
+      "name": "Sky News Arabia",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/skynewsarabia"
+    },
+    {
+      "name": "Sudarshan News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/sudarshannews"
+    },
+    {
+      "name": "TV Arta",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/tvarta"
+    },
+    {
+      "name": "TV Spravedliva Bulgariya",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/spravedlivabulgariya"
+    },
+    {
+      "name": "TV5 News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/tv5news"
+    },
+    {
+      "name": "TVK Stella",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/tvkstella"
+    },
+    {
+      "name": "V6 News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/v6news"
+    },
+    {
+      "name": "Zee 24 Kalak",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zee24kalak"
+    },
+    {
+      "name": "Zee 24 Taas",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zee24taas"
+    },
+    {
+      "name": "Zee Business",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zeebusiness"
+    },
+    {
+      "name": "Zee Kannada News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zeekannadanews"
+    },
+    {
+      "name": "Zee News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zeenews"
+    },
+    {
+      "name": "Zee Telugu News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zeetelugunews"
+    },
+    {
+      "name": "ZillarBarta News",
+      "genre": "News",
+      "page": "https://www.i3radio.com/user/zillarbartanews"
+    },
+    {
+      "name": "30A Golf Kingdom",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/30agolfkingdom"
+    },
+    {
+      "name": "BEK TV Sports West",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/bektvsportswest"
+    },
+    {
+      "name": "Bahrain Sports 2",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/bahrainsports2"
+    },
+    {
+      "name": "Glory Kickboxing",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/glorykickboxing"
+    },
+    {
+      "name": "KTV Sport",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/ktvsport"
+    },
+    {
+      "name": "KTV Sport Plus",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/ktvsportplus"
+    },
+    {
+      "name": "MadeinBO TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/madeinbotv"
+    },
+    {
+      "name": "NFL Network",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/nflchannel"
+    },
+    {
+      "name": "Nautical Channel",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/nauticalchannel"
+    },
+    {
+      "name": "Oman Sports TV",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/omansportstv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvsclassicsports"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/rightnowtv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvssports"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/sportitalia-primavera"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/sport5-by"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/sportsfirst"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvsturbo"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/morethansportstv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/bahrainsports1"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/colimdottv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/soskanalplus"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/horsetv"
+    },
+    {
+      "name": "Red Bull TV EN",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/redbulltv-en"
+    },
+    {
+      "name": "Sportitalia",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/sportitaliatv"
+    },
+    {
+      "name": "Stadium USA",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/stadiumusa"
+    },
+    {
+      "name": "Swerve Combat",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/swervecombat"
+    },
+    {
+      "name": "TVRI Sport",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvrisport"
+    },
+    {
+      "name": "TVS Bowling Network",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvsbowlingnetwork"
+    },
+    {
+      "name": "TVS Boxing",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvsboxing"
+    },
+    {
+      "name": "TVS Women Sports",
+      "genre": "Sports",
+      "page": "https://www.i3radio.com/user/tvswomensports"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-00600-00839"
+}
