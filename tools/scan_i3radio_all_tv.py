@@ -107,8 +107,9 @@ async def scan(browser,item,observe,sem):
                 rec["error"]="Not confirmed as television"
                 return rec
             h1=soup.find("h1")
-            if h1 and h1.get_text(" ",strip=True):
-                rec["name"]=safe(h1.get_text(" ",strip=True))
+            candidate=safe(h1.get_text(" ",strip=True)) if h1 else ""
+            if candidate and not re.search(r"asks for your consent|use your personal data|cookie|privacy notice",candidate,re.I):
+                rec["name"]=candidate
             if ADULT.search(rec["name"]):
                 rec["tv"]=False
                 rec["error"]="Adult channel excluded"
