@@ -1,0 +1,556 @@
+{
+  "range": "01080-01319",
+  "scanned_pages": 240,
+  "candidate_stream_urls_tested": 214,
+  "distinct_video_working_urls": 118,
+  "pages_with_working_video": 109,
+  "working_page_names": [
+    {
+      "name": "30A Darcizzle Offshore",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/30adarcizzleoffshore"
+    },
+    {
+      "name": "AKC TV",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/akctv"
+    },
+    {
+      "name": "AKC TV Dogs",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/akctvdogs"
+    },
+    {
+      "name": "AKC TV Meet The Breeds",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/akctvmeetthebreeds"
+    },
+    {
+      "name": "AKC TV Puppies",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/akctvpuppies"
+    },
+    {
+      "name": "BBC Earth Animal & Nature Insights & Stories",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/bbcearth"
+    },
+    {
+      "name": "CGTN Documentary",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/cgtndocumentary"
+    },
+    {
+      "name": "Canal 15 ILCE Summa Sabres",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/canal15ilcesummasabres"
+    },
+    {
+      "name": "Justicia TV",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/justiciatv"
+    },
+    {
+      "name": "Love Nature en Español",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/lovenatureenespanol"
+    },
+    {
+      "name": "Peer TV Alto Adige",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/peertvaltoadige"
+    },
+    {
+      "name": "Peer TV South Tyrol",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/peertvsouthtyrol"
+    },
+    {
+      "name": "Peer TV Südtirol",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/peertvsudtirol"
+    },
+    {
+      "name": "13T",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/13t"
+    },
+    {
+      "name": "24 Hour Free Movies (UK)",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/24hourfreemovies-uk"
+    },
+    {
+      "name": "ADN TV+",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/adntvplus"
+    },
+    {
+      "name": "AMC Thrillers",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/amcthrillers"
+    },
+    {
+      "name": "AVA Series",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/avaseries"
+    },
+    {
+      "name": "Afra Film",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/afrafilm"
+    },
+    {
+      "name": "Alter Horror",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/alterhorror"
+    },
+    {
+      "name": "Are We There Yet?",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/arewethereyet"
+    },
+    {
+      "name": "ArtFlix",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/artflix-nl"
+    },
+    {
+      "name": "ArtFlix (España)",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/artflix-es"
+    },
+    {
+      "name": "B4U Bhojpuri",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/b4ubhojpuri"
+    },
+    {
+      "name": "BBC Drama Spain",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/bbcdrama-es"
+    },
+    {
+      "name": "Best Action TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/bestactiontv"
+    },
+    {
+      "name": "Best Thriller TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/bestthrillertv"
+    },
+    {
+      "name": "Bhojpuri Cinema",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/bhojpuricinema"
+    },
+    {
+      "name": "Bigtime",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/bigtime"
+    },
+    {
+      "name": "Brat TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/brattv"
+    },
+    {
+      "name": "CGtv",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/cgtv"
+    },
+    {
+      "name": "Canal 21 TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/canal21tv"
+    },
+    {
+      "name": "Charge!",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/charge"
+    },
+    {
+      "name": "Cine Romántico",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/cineromantico"
+    },
+    {
+      "name": "City Eden TeleNovella",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/cityedentelenovella"
+    },
+    {
+      "name": "Colour Blind",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/colourblind"
+    },
+    {
+      "name": "Doctor Who Classic",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/doctorwhoclassic"
+    },
+    {
+      "name": "FilmRise Anime",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/filmriseanime"
+    },
+    {
+      "name": "FilmRise Classic TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/filmriseclassictv"
+    },
+    {
+      "name": "Gravitas Movies",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/gravitasmovies"
+    },
+    {
+      "name": "Grjngo",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/grjngo"
+    },
+    {
+      "name": "Grjngo Western Movies",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/grjngowesternmovies"
+    },
+    {
+      "name": "Grjngo Westerny",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/grjngowesterny"
+    },
+    {
+      "name": "Harbin Movie Channel",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/harbinmoviechannel"
+    },
+    {
+      "name": "HeartFelt TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/heartfelttv"
+    },
+    {
+      "name": "Horror TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/horrortv"
+    },
+    {
+      "name": "IFC Films Picks",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/ifcfilmspicks"
+    },
+    {
+      "name": "ION Mystery",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/ionmystery"
+    },
+    {
+      "name": "ION Plus East",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/ionpluseast"
+    },
+    {
+      "name": "Jordan Comedy",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/jordancomedy"
+    },
+    {
+      "name": "Jordan Drama",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/jordandrama"
+    },
+    {
+      "name": "Krimi Channel",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/krimi"
+    },
+    {
+      "name": "Latina Clasicos",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/latinaclasicos"
+    },
+    {
+      "name": "MCI Television",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/mcitelevision"
+    },
+    {
+      "name": "MST3K",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/mst3k"
+    },
+    {
+      "name": "Maah TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/maahtv"
+    },
+    {
+      "name": "Markiza Klasik",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/markizaklasik"
+    },
+    {
+      "name": "Markiza Krimi",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/markizakrimi"
+    },
+    {
+      "name": "Meta Film TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/metafilmtv"
+    },
+    {
+      "name": "Midnight Pulp",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/midnightpulp"
+    },
+    {
+      "name": "Midsomer Murders",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/midsomermurders"
+    },
+    {
+      "name": "MovieSphere",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/moviesphere"
+    },
+    {
+      "name": "MovieSphere (UK)",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/moviesphere-uk"
+    },
+    {
+      "name": "MyTime Movie Network",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/mytimemovienetwork"
+    },
+    {
+      "name": "MyTime Movie Network Brazil",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/mytimemovienetworkbrazil"
+    },
+    {
+      "name": "MyTime Movie Network Mexico",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/mytimemovienetworkmexico"
+    },
+    {
+      "name": "NBC Comedy Vault",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/nbccomedyvault"
+    },
+    {
+      "name": "Newflix",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/newflix"
+    },
+    {
+      "name": "Next HD",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/nexthd"
+    },
+    {
+      "name": "OTV OceansTV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/otv"
+    },
+    {
+      "name": "Persiana 4Kurd",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/persiana4kurd"
+    },
+    {
+      "name": "Persiana Comedy",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/persianacomedy"
+    },
+    {
+      "name": "Persiana Nostalgia",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/persiananostalgia"
+    },
+    {
+      "name": "Persiana Two",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/persianatwo"
+    },
+    {
+      "name": "Positiv TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/positivtv"
+    },
+    {
+      "name": "RetroCrush",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/retrocrush"
+    },
+    {
+      "name": "Roja Movies",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/rojamovies"
+    },
+    {
+      "name": "Runtime Español",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/runtimeespanol"
+    },
+    {
+      "name": "Saved by the Bell",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/savedbythebell"
+    },
+    {
+      "name": "Scares by Shudder",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/scaresbyshudder"
+    },
+    {
+      "name": "SciFi World",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/sci-fiworld"
+    },
+    {
+      "name": "Shemaroo Bollywood",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/shemaroobollywood"
+    },
+    {
+      "name": "Shemaroo Josh",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/shemaroojosh"
+    },
+    {
+      "name": "Shubh Cinema TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/shubhcinematv"
+    },
+    {
+      "name": "Super!",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/super"
+    },
+    {
+      "name": "Suriyan TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/suriyantv"
+    },
+    {
+      "name": "TV Series",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tvseries"
+    },
+    {
+      "name": "TV Series 1 As Panteras",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tvseries1aspanteras"
+    },
+    {
+      "name": "TVCARiB Cinema",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tvcaribcinema"
+    },
+    {
+      "name": "TVE Star",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tvestar"
+    },
+    {
+      "name": "Telemundo Accion",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/telemundoaccion"
+    },
+    {
+      "name": "Telemundo Romance",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/telemundoromance"
+    },
+    {
+      "name": "Televisa Telenovelas",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/televisatelenovelas"
+    },
+    {
+      "name": "Thalaa TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/thalaatv"
+    },
+    {
+      "name": "The Archive",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/thearchive"
+    },
+    {
+      "name": "The Lone Ranger",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/theloneranger"
+    },
+    {
+      "name": "Thriller Runtime",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/thrillerruntime"
+    },
+    {
+      "name": "Todo Novelas",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/todonovelas"
+    },
+    {
+      "name": "Tolly TV",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/tollytv"
+    },
+    {
+      "name": "Universal Action",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/universalaction"
+    },
+    {
+      "name": "Universal Monsters",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/universalmonsters"
+    },
+    {
+      "name": "Universal Westerns",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/universalwesterns"
+    },
+    {
+      "name": "WFXT-DT2 Ion Mystery",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/wfxt-dt2"
+    },
+    {
+      "name": "Xtrema Cine Clasico",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/xtremacineclasico"
+    },
+    {
+      "name": "Xtrema Terror",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/xtrematerror"
+    },
+    {
+      "name": "Yu-Gi-Oh!",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/yugioh"
+    },
+    {
+      "name": "Yu-Gi-Oh! en Español",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/yugiohenespanol"
+    },
+    {
+      "name": "Z Nation",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/znation"
+    },
+    {
+      "name": "Zylo Fréquence Novelas",
+      "genre": "MoviesSeries",
+      "page": "https://www.i3radio.com/user/zylofrequencenovelas"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-01080-01319"
+}
