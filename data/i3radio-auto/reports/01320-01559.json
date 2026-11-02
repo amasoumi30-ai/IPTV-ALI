@@ -1,0 +1,721 @@
+{
+  "range": "01320-01559",
+  "scanned_pages": 240,
+  "candidate_stream_urls_tested": 251,
+  "distinct_video_working_urls": 170,
+  "pages_with_working_video": 142,
+  "working_page_names": [
+    {
+      "name": "Better Life Nature Channel",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/betterlifenaturechannel"
+    },
+    {
+      "name": "Dateline 24/7",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/dateline247"
+    },
+    {
+      "name": "Docu Vision",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/docuvision"
+    },
+    {
+      "name": "Documentary+",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/documentaryplus"
+    },
+    {
+      "name": "Dokusat",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/dokusat"
+    },
+    {
+      "name": "EPlanet TV",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/eplanettv"
+    },
+    {
+      "name": "EscapeTV channel",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/escapetvchannel"
+    },
+    {
+      "name": "InWonder",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/inwonder"
+    },
+    {
+      "name": "Jordan Archive",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/jordanarchive"
+    },
+    {
+      "name": "Love The Planet",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/lovetheplanet"
+    },
+    {
+      "name": "Real Wild",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/realwild"
+    },
+    {
+      "name": "Safari TV",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/safaritv"
+    },
+    {
+      "name": "Savoir Média",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/savoirmedia"
+    },
+    {
+      "name": "Story Television",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/storytelevision"
+    },
+    {
+      "name": "StoryChannel TV",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/storychanneltv"
+    },
+    {
+      "name": "True History",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/truehistory"
+    },
+    {
+      "name": "True History Channel",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/truehistorychannel"
+    },
+    {
+      "name": "WildEarth",
+      "genre": "Documentary",
+      "page": "https://www.i3radio.com/user/wildearth"
+    },
+    {
+      "name": "30A Georgia Hollywood Review TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/30ageorgiahollywoodreviewtv"
+    },
+    {
+      "name": "360 TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/360tv"
+    },
+    {
+      "name": "8 La Marina TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/8lamarinatv"
+    },
+    {
+      "name": "AMC Absolute Reality",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/amcabsolutereality"
+    },
+    {
+      "name": "Akaku 54 (Hawaii)",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/akaku54hawaii"
+    },
+    {
+      "name": "Amazing Discoveries TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/amazingdiscoveriestv"
+    },
+    {
+      "name": "Az Star TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/azstartv"
+    },
+    {
+      "name": "Azteca Internacional",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/aztecainternacional"
+    },
+    {
+      "name": "CBC TV8 WEB",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/cbctv8"
+    },
+    {
+      "name": "CCTV+ 1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/cctv1"
+    },
+    {
+      "name": "Celebrity Scene TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/celebrityscenetv"
+    },
+    {
+      "name": "ERi-TV 1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/eri-tv1"
+    },
+    {
+      "name": "ET Live",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/etlive"
+    },
+    {
+      "name": "ETB 1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/etb1"
+    },
+    {
+      "name": "Eawaz TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/eawaztv"
+    },
+    {
+      "name": "Feva TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/fevatv"
+    },
+    {
+      "name": "HollyWire",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/hollywire"
+    },
+    {
+      "name": "ICI Montreal",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/icimontrealtv"
+    },
+    {
+      "name": "KAN 11 Israel WEB",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kan11israel"
+    },
+    {
+      "name": "Kordia TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kordiatv"
+    },
+    {
+      "name": "Miami TV Latino",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/miamitv-latino"
+    },
+    {
+      "name": "Montecristi Digital TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/montecristidigitaltv"
+    },
+    {
+      "name": "NETV Toronto",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/netvtoronto"
+    },
+    {
+      "name": "Noovo Comédies",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/noovocomedies"
+    },
+    {
+      "name": "Noovo Téléréalités",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/noovotelerealites"
+    },
+    {
+      "name": "Oman Mubashir",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/omanmubashir"
+    },
+    {
+      "name": "Rai 1 TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rai1"
+    },
+    {
+      "name": "TVReus",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvreus"
+    },
+    {
+      "name": "10 Bold",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/10bold"
+    },
+    {
+      "name": "13 Realities",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/13realities"
+    },
+    {
+      "name": "13C",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/13c"
+    },
+    {
+      "name": "48 Forty Eight Hours",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/48fortyeighthours"
+    },
+    {
+      "name": "4K Travel TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/4ktraveltv"
+    },
+    {
+      "name": "5 Minute Crafts (España)",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/5minutecrafts-es"
+    },
+    {
+      "name": "5-Minute Craft",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/5-minutecraft"
+    },
+    {
+      "name": "AMC All Weddings",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/amcallweddings"
+    },
+    {
+      "name": "Alien Nation",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/aliennation"
+    },
+    {
+      "name": "Alien Nation (UK)",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/aliennation-uk"
+    },
+    {
+      "name": "American Crime Channel",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/americancrimechannel"
+    },
+    {
+      "name": "American Ninja Warrior",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/americanninjawarrior"
+    },
+    {
+      "name": "Antiques Roadshow UK",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/antiquesroadshowuk"
+    },
+    {
+      "name": "Aruba TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/arubatv"
+    },
+    {
+      "name": "At Home with Family Handyman",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/athomewithfamilyhandyman"
+    },
+    {
+      "name": "BBC Top Gear Italy",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/bbctopgearitaly"
+    },
+    {
+      "name": "Bravo Vault",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/bravovault"
+    },
+    {
+      "name": "Buzzfeed Unsolved",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/buzzfeedunsolved"
+    },
+    {
+      "name": "Celeb Reality",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/celebreality"
+    },
+    {
+      "name": "Chef Champion",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/chefchampion"
+    },
+    {
+      "name": "Choppertown",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/choppertown"
+    },
+    {
+      "name": "Cold Case Files",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/coldcasefiles"
+    },
+    {
+      "name": "Cooking Panda",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/cookingpanda"
+    },
+    {
+      "name": "Court TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/courttv"
+    },
+    {
+      "name": "Crime & Justice",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/crimejustice"
+    },
+    {
+      "name": "Crime 360",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/crime360"
+    },
+    {
+      "name": "Deal or No Deal",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/dealornodeal"
+    },
+    {
+      "name": "Dog The Bounty Hunter",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/dogthebountyhunte"
+    },
+    {
+      "name": "Dr G Medical Examiner",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/drgmedicalexaminer"
+    },
+    {
+      "name": "Duck Dynasty",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/duckdynasty"
+    },
+    {
+      "name": "Duck Hunting TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/duckhuntingtv"
+    },
+    {
+      "name": "Egnatia TV Εγνατια Τηλεοραση",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/egnatiatv"
+    },
+    {
+      "name": "Estrella Games",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/estrellagames"
+    },
+    {
+      "name": "Fashion TV France",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/fashiontv-france"
+    },
+    {
+      "name": "Fear Factor",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/fearfactor"
+    },
+    {
+      "name": "Flipping Nation",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/flippingnation"
+    },
+    {
+      "name": "Global Fashion Channel",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/globalfashionchannel"
+    },
+    {
+      "name": "Golden Boy",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/goldenboy"
+    },
+    {
+      "name": "Gordon Ramsay",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/gordonramsay"
+    },
+    {
+      "name": "Heritage Tourism",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/heritagetourism"
+    },
+    {
+      "name": "Heritage+",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/heritage"
+    },
+    {
+      "name": "Hoarders",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/hoarders"
+    },
+    {
+      "name": "Homeful",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/homeful"
+    },
+    {
+      "name": "Homes Under The Hammer",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/homesunderthehamm"
+    },
+    {
+      "name": "Hunt Fish TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/huntfishtv"
+    },
+    {
+      "name": "I Survived",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/isurvived"
+    },
+    {
+      "name": "INFAST",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/infast"
+    },
+    {
+      "name": "Impossible Quiz Show",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/impossiblequizshow"
+    },
+    {
+      "name": "Inside Crime",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/insidecrime"
+    },
+    {
+      "name": "Into Crime",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/intocrime"
+    },
+    {
+      "name": "Italian Fishing TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/italianfishingtv"
+    },
+    {
+      "name": "Jordan Kitchen",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/jordankitchen"
+    },
+    {
+      "name": "Judge Nosey",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/judgenosey"
+    },
+    {
+      "name": "Kaloopy",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/kaloopy"
+    },
+    {
+      "name": "Localish",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/localish"
+    },
+    {
+      "name": "Love Wine",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/lovewine"
+    },
+    {
+      "name": "Luxury Dreams TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/luxurydreamstv"
+    },
+    {
+      "name": "Miami Jenny Live",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/miamijennylive"
+    },
+    {
+      "name": "Miami Swim Bikini",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/miamiswimbikini"
+    },
+    {
+      "name": "Miami TV Mexico",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/miamitvmexico"
+    },
+    {
+      "name": "Million Dollar Listing Vault",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/milliondollarlistingvault"
+    },
+    {
+      "name": "Motorvision TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/motorvisiontv"
+    },
+    {
+      "name": "Mythbusters",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/mythbusters"
+    },
+    {
+      "name": "NBC LX Home",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/nbclx"
+    },
+    {
+      "name": "NBC LX Home",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/nbclxhome"
+    },
+    {
+      "name": "NBS Korea Agricultural Broadcasting",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/nbskoreaagriculturalbroadcasting"
+    },
+    {
+      "name": "Omstars",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/omstars"
+    },
+    {
+      "name": "Orler TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/orlertv"
+    },
+    {
+      "name": "Otkritiy mir. Zdorove",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/otkritiymirzdorove"
+    },
+    {
+      "name": "Outdoor America",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/outdooramerica"
+    },
+    {
+      "name": "Outdoor Channel",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/outdoorchannel"
+    },
+    {
+      "name": "Outside TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/outsidetv"
+    },
+    {
+      "name": "Pet Club TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/petclubtv"
+    },
+    {
+      "name": "Plous TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/ploustv"
+    },
+    {
+      "name": "PowerNation",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/powernation"
+    },
+    {
+      "name": "Property & Reno",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/propertyamdreno"
+    },
+    {
+      "name": "Pursuit UP",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/pursuitup"
+    },
+    {
+      "name": "Real Housewives Vault",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/realhousewivesvault"
+    },
+    {
+      "name": "Reelz Famous & Infamous",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/reelzfamousandinfamous"
+    },
+    {
+      "name": "Rig TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/rigtv"
+    },
+    {
+      "name": "Salira TV Merekam Indonesia",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/saliratv"
+    },
+    {
+      "name": "Sport Fishing TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/sportfishingtv"
+    },
+    {
+      "name": "Superyacht TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/superyachttv"
+    },
+    {
+      "name": "TV Blossom",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/tvblossom"
+    },
+    {
+      "name": "TV One Crime & Justice",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/tvonecrimejustice"
+    },
+    {
+      "name": "Televisión Consciente",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/televisionconsciente"
+    },
+    {
+      "name": "The Design Network",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/thedesignnetwork"
+    },
+    {
+      "name": "This Old House",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/thisoldhouse"
+    },
+    {
+      "name": "This is Bulgaria HD",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/thisisbulgariahd"
+    },
+    {
+      "name": "Top Chef Vault",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/topchefvault"
+    },
+    {
+      "name": "Top Gear",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/topgear"
+    },
+    {
+      "name": "Top Gear Germany",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/topgear-de"
+    },
+    {
+      "name": "Travel TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/traveltv"
+    },
+    {
+      "name": "Trufa",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/trufa"
+    },
+    {
+      "name": "apart TV",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/aparttv"
+    },
+    {
+      "name": "bon appétit",
+      "genre": "LifeStyle",
+      "page": "https://www.i3radio.com/user/bonappetit"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-01320-01559"
+}
