@@ -1,0 +1,741 @@
+{
+  "range": "01800-02039",
+  "scanned_pages": 240,
+  "candidate_stream_urls_tested": 271,
+  "distinct_video_working_urls": 181,
+  "pages_with_working_video": 146,
+  "working_page_names": [
+    {
+      "name": "Ajman TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ajmantv"
+    },
+    {
+      "name": "Brionnais TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/brionnaistv"
+    },
+    {
+      "name": "Bukedde TV 1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/bukeddetv1"
+    },
+    {
+      "name": "Bukedde TV 2",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/bukeddetv2"
+    },
+    {
+      "name": "CFM TV Channel 98",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/cfmtvchannel98"
+    },
+    {
+      "name": "CNC Santander de Quilichao",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/cncsantanderdequilichao"
+    },
+    {
+      "name": "COM Brasil",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/combrasil"
+    },
+    {
+      "name": "Cenovision TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/cenovisiontv"
+    },
+    {
+      "name": "Chemnitz Fernsehen",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/chemnitzfernsehen"
+    },
+    {
+      "name": "Chile Channel",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/chilechannel"
+    },
+    {
+      "name": "Chiloe Red 25",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/chiloered25"
+    },
+    {
+      "name": "Chinola TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/chinolatv"
+    },
+    {
+      "name": "EchtJetzt TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/echtjetzttv"
+    },
+    {
+      "name": "Ecovisión",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ecovision"
+    },
+    {
+      "name": "Eden TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/edentv"
+    },
+    {
+      "name": "Edgy TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/edgytv"
+    },
+    {
+      "name": "Erz-TV Stollberg",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/erz-tvstollberg"
+    },
+    {
+      "name": "EsTuTele",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/estutele"
+    },
+    {
+      "name": "Eskişehir ES TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/estv"
+    },
+    {
+      "name": "Eslah TV - تلویزیون اصلاح",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/eslahtv"
+    },
+    {
+      "name": "Espace TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/espacetv"
+    },
+    {
+      "name": "First Channel (1TV)",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/firstchannel1tv"
+    },
+    {
+      "name": "Geekdot",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/geekdot"
+    },
+    {
+      "name": "Haarlem105 RTV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/haarlem105rtv"
+    },
+    {
+      "name": "Hesper TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/hespertv"
+    },
+    {
+      "name": "Hunat TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/hunattv"
+    },
+    {
+      "name": "Hévízi TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/hevizitv"
+    },
+    {
+      "name": "IasiTV Life",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/iasitvlife"
+    },
+    {
+      "name": "Imedi TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/imeditv"
+    },
+    {
+      "name": "Intuitiva TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/intuitivatv"
+    },
+    {
+      "name": "Isibo TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/isibotv"
+    },
+    {
+      "name": "Isla TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/islatv"
+    },
+    {
+      "name": "KANAL 58",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kanal58"
+    },
+    {
+      "name": "Kalac TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kalactv"
+    },
+    {
+      "name": "Kalaignar Murasu",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kalaignarmurasu"
+    },
+    {
+      "name": "Kanal 7 Avrupa",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kanal7avrupa"
+    },
+    {
+      "name": "Karcag TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/karcagtv"
+    },
+    {
+      "name": "Kardelen TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kardelentv"
+    },
+    {
+      "name": "Lao Net TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/laonettv"
+    },
+    {
+      "name": "Lao SV TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/laosvtv"
+    },
+    {
+      "name": "Love 2 Hate TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/love2hatetv"
+    },
+    {
+      "name": "MNTV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/mntv"
+    },
+    {
+      "name": "MO Channel",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/mochannel"
+    },
+    {
+      "name": "Marka TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/markatv"
+    },
+    {
+      "name": "Miami TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/miamitv"
+    },
+    {
+      "name": "Minformo TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/minformotv"
+    },
+    {
+      "name": "Moldova 1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/moldova1"
+    },
+    {
+      "name": "NET TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/nettv"
+    },
+    {
+      "name": "NTV+",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ntvplus"
+    },
+    {
+      "name": "När-TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/nar-tv"
+    },
+    {
+      "name": "OXIR TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/oxirtv"
+    },
+    {
+      "name": "Oh Muang Lao TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ohmuanglaotv"
+    },
+    {
+      "name": "Olelo Community Media Channel 54",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/olelocommunitymediachannel54"
+    },
+    {
+      "name": "Olelo Community Media Channel 55",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/olelocommunitymediachannel55"
+    },
+    {
+      "name": "Omega TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/omegatv"
+    },
+    {
+      "name": "Onda Novara TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ondanovaratv"
+    },
+    {
+      "name": "Open Rotterdam",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/openrotterdam"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/parstv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrisumaterabarat"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tropojatv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/intertvve"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/reteoro"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/olelocommunitymediachannel49"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/w24"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/pbsmptbaltimoremd"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrisulawesitenggara"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/clarotelevisiondominicana"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/revryeurope"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/olelocommunitymediachannel53"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/pellatv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/eltrece"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/gnomitv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvriworld"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/lao-thaitv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tempotv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/jordansatellitechannel"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/revryqueer"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/icitelehd"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kingtv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rselvatv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvformula"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/reggiotv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/teletricolore"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/hamaikatelebista"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kilisucitv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ralytv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvk"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvripapua"
+    },
+    {
+      "name": "P2M TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/p2mtv"
+    },
+    {
+      "name": "PBC Tapesh TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/pbctapeshtv"
+    },
+    {
+      "name": "Palenque TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/palenquetv"
+    },
+    {
+      "name": "Palm Beaches TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/palmbeachestv"
+    },
+    {
+      "name": "PeekFlick",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/peekflick"
+    },
+    {
+      "name": "Persiana Turkiye",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/persianaturkiye"
+    },
+    {
+      "name": "PortuTV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/portutv"
+    },
+    {
+      "name": "Pravasi Channel",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/pravasichannel"
+    },
+    {
+      "name": "Promovideo TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/promovideotv"
+    },
+    {
+      "name": "Punt 3 Vall Uixó",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/punt3valluixo"
+    },
+    {
+      "name": "Qatar Television 2",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/qatartelevision2"
+    },
+    {
+      "name": "Qausain TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/qausaintv"
+    },
+    {
+      "name": "Qazaqstan International",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/qazaqstaninternational"
+    },
+    {
+      "name": "REFLET TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/reflettv"
+    },
+    {
+      "name": "RHT Guadeloupe",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rhtguadeloupe"
+    },
+    {
+      "name": "RN Televisión",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rntelevision"
+    },
+    {
+      "name": "Red+",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/redmas"
+    },
+    {
+      "name": "Rete 8",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rete8"
+    },
+    {
+      "name": "Rete TV Italia",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/retetvitalia"
+    },
+    {
+      "name": "Rojava TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rojavatv"
+    },
+    {
+      "name": "RÚV 2",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ruv2"
+    },
+    {
+      "name": "SBTV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/sbtv"
+    },
+    {
+      "name": "Sigma TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/sigmatv"
+    },
+    {
+      "name": "Siyatha TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/siyathatv"
+    },
+    {
+      "name": "TRT",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/trt"
+    },
+    {
+      "name": "TRT 2",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/trt2"
+    },
+    {
+      "name": "TUTV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tutv"
+    },
+    {
+      "name": "TV ASTA",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvasta"
+    },
+    {
+      "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvnuevoleoncanal28"
+    },
+    {
+      "name": "TV Oberfranken (TVO)",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvoberfranken"
+    },
+    {
+      "name": "TV Pantanal MS",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvpantanalms"
+    },
+    {
+      "name": "TV Ružinov",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvruzinov"
+    },
+    {
+      "name": "TV1 Kayseri",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tv1kayseri"
+    },
+    {
+      "name": "TVP Los Mochis",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvplosmochis"
+    },
+    {
+      "name": "TVP Mazatlán",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvpmazatlan"
+    },
+    {
+      "name": "TVP Obregón",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvpobregon"
+    },
+    {
+      "name": "TVR International",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrinternational"
+    },
+    {
+      "name": "TVRI Aceh",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvriaceh"
+    },
+    {
+      "name": "TVRI Bali",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvribali"
+    },
+    {
+      "name": "TVRI Bangka Belitung",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvribangkabelitung"
+    },
+    {
+      "name": "TVRI Bengkulu",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvribengkulu"
+    },
+    {
+      "name": "TVRI DKI Jakarta",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvridkijakarta"
+    },
+    {
+      "name": "TVRI Gorontalo",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrigorontalo"
+    },
+    {
+      "name": "TVRI Kalimantan Tengah",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrikalimantantengah"
+    },
+    {
+      "name": "TVRI Lampung",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrilampung"
+    },
+    {
+      "name": "TVRI Nasional",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrinasional"
+    },
+    {
+      "name": "TVRI Nusa Tenggara Barat",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrinusatenggarabarat"
+    },
+    {
+      "name": "TVRI Nusa Tenggara Timur",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrinusatenggaratimur"
+    },
+    {
+      "name": "TVRI Riau",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvririau"
+    },
+    {
+      "name": "TVRI Sulawesi Selatan",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrisulawesiselatan"
+    },
+    {
+      "name": "TVRI Sulawesi Tengah",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrisulawesitengah"
+    },
+    {
+      "name": "TVRI Sumatera Selatan",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvrisumateraselatan"
+    },
+    {
+      "name": "Tatai TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tataitv"
+    },
+    {
+      "name": "Teleselva",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/teleselva"
+    },
+    {
+      "name": "Televisión Metrópolis 19.1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/televisionmetropolis191"
+    },
+    {
+      "name": "Televisora de Oriente (TVO)",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/televisoradeoriente"
+    },
+    {
+      "name": "Televízia Močenok",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/televiziamocenok"
+    },
+    {
+      "name": "ТВ1 България",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tv1"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-01800-02039"
+}
