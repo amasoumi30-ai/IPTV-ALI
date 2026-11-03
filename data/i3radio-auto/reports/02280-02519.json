@@ -1,0 +1,496 @@
+{
+  "range": "02280-02519",
+  "scanned_pages": 240,
+  "candidate_stream_urls_tested": 189,
+  "distinct_video_working_urls": 114,
+  "pages_with_working_video": 97,
+  "working_page_names": [
+    {
+      "name": "1 Almere",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/1almere"
+    },
+    {
+      "name": "11 Mar De Ajo",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/11mardeajo"
+    },
+    {
+      "name": "20 Minutes",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/20minutes"
+    },
+    {
+      "name": "2M Monde",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/2mmonde"
+    },
+    {
+      "name": "3 Punt",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/3punt"
+    },
+    {
+      "name": "33TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/33tv"
+    },
+    {
+      "name": "ABC TV Adelaide",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-adelaide"
+    },
+    {
+      "name": "ABC TV Brisbane",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-brisbane"
+    },
+    {
+      "name": "ABC TV Canberra",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-canberra"
+    },
+    {
+      "name": "ABC TV Darwin",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-darwin"
+    },
+    {
+      "name": "ABC TV Hobart",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-hobart"
+    },
+    {
+      "name": "ABC TV Melbourne",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-melbourne"
+    },
+    {
+      "name": "ABC TV Perth",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-perth"
+    },
+    {
+      "name": "ABC TV Sydney",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/abctv-sydney"
+    },
+    {
+      "name": "Amrita TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/amritatv"
+    },
+    {
+      "name": "Bangla+",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/banglaplus"
+    },
+    {
+      "name": "CCV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ccv"
+    },
+    {
+      "name": "Dangal 2",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/dangal2"
+    },
+    {
+      "name": "Dangal TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/dangaltv"
+    },
+    {
+      "name": "Dunya Naw TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/dunyanawtv"
+    },
+    {
+      "name": "GTC Punjabi",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/gtcpunjabi"
+    },
+    {
+      "name": "Gangaur TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/gangaurtv"
+    },
+    {
+      "name": "ITV Patagonia",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/itvpatagonia"
+    },
+    {
+      "name": "KITV-DT1",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kitv-dt1"
+    },
+    {
+      "name": "KTV Bangla",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/ktvbangla"
+    },
+    {
+      "name": "Kalaignar TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kalaignartv"
+    },
+    {
+      "name": "Kanal D Drama",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kanalddrama-es"
+    },
+    {
+      "name": "Kanal D Drama",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/kanalddrama-mx"
+    },
+    {
+      "name": "Lenca TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/lencatv"
+    },
+    {
+      "name": "Makkal TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/makkaltv"
+    },
+    {
+      "name": "Mazhavil Manorama",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/mazhavilmanorama"
+    },
+    {
+      "name": "Nosey",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/nosey"
+    },
+    {
+      "name": "Rongeen TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/rongeentv"
+    },
+    {
+      "name": "Royalworld",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/royalworld"
+    },
+    {
+      "name": "Scottsdale Channel 11",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/scottsdalechannel11"
+    },
+    {
+      "name": "Shemaroo Marathi Bana",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/shemaroomarathibana"
+    },
+    {
+      "name": "Shubh TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/shubhtv"
+    },
+    {
+      "name": "Starnet",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/starnet"
+    },
+    {
+      "name": "Subin TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/subintv"
+    },
+    {
+      "name": "TV Puls",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/tvpuls"
+    },
+    {
+      "name": "TeleTicino",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/teleticino"
+    },
+    {
+      "name": "Telenovisa43",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/telenovisa43"
+    },
+    {
+      "name": "Teleplay Sureste",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/teleplaysureste"
+    },
+    {
+      "name": "Twoja.TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/twojatv"
+    },
+    {
+      "name": "Vegavisión Canal 18",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/vegavisioncanal18"
+    },
+    {
+      "name": "Zurquí TV",
+      "genre": "Entertainment",
+      "page": "https://www.i3radio.com/user/zurquitv"
+    },
+    {
+      "name": "13 Festival",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/13festival"
+    },
+    {
+      "name": "30A Music Channel",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/30amusicchannel"
+    },
+    {
+      "name": "70-80 TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/70-80tv"
+    },
+    {
+      "name": "98.1 Pearl FM",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/981pearlfm"
+    },
+    {
+      "name": "A2i Music",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/a2imusic"
+    },
+    {
+      "name": "AFN TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/afntv"
+    },
+    {
+      "name": "Activa TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/activatv"
+    },
+    {
+      "name": "Afrobeats",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/afrobeats"
+    },
+    {
+      "name": "AlbKanale Music TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/albkanalemusictv"
+    },
+    {
+      "name": "Asia Music Channel (AMC)",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/amc"
+    },
+    {
+      "name": "Avang TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/avangtv"
+    },
+    {
+      "name": "BTA TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/btatv"
+    },
+    {
+      "name": "Best of Dance TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/bestofdancetv"
+    },
+    {
+      "name": "City TV Телевизия Сити",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/citytv"
+    },
+    {
+      "name": "DanceTV Algorhythm",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/dancetvalgorhythm"
+    },
+    {
+      "name": "DanceTV Deep House District",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/dancetvdeephousedistrict"
+    },
+    {
+      "name": "DanceTV House Floor",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/dancetvhousefloor"
+    },
+    {
+      "name": "DanceTV Techno Warehouse",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/dancetvtechnowarehouse"
+    },
+    {
+      "name": "EBS Musika",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/ebsmusika"
+    },
+    {
+      "name": "Fabulosa Estéreo 100.5 FM",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/fabulosaestereo1005fm"
+    },
+    {
+      "name": "Falastini TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/falastinitv"
+    },
+    {
+      "name": "Folk TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/folktv"
+    },
+    {
+      "name": "Gigant FM",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/gigantfm"
+    },
+    {
+      "name": "Impact TV Dance",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/impacttvdance"
+    },
+    {
+      "name": "Kiss Kiss TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/kisskisstv"
+    },
+    {
+      "name": "Kiss TV HD",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/kisstvhd"
+    },
+    {
+      "name": "La Top 102.9",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/latop1029"
+    },
+    {
+      "name": "La Top 107.7",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/latop1077"
+    },
+    {
+      "name": "Latin Zone TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/latinzonetv"
+    },
+    {
+      "name": "Magic TV HD",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/magictvhd"
+    },
+    {
+      "name": "NOW 90s00s",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/now90s00s"
+    },
+    {
+      "name": "Number 1 Ask",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/number1ask"
+    },
+    {
+      "name": "Number 1 Damar",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/number1damar"
+    },
+    {
+      "name": "Number 1 Dance",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/number1dance"
+    },
+    {
+      "name": "Pamir TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/pamirtv"
+    },
+    {
+      "name": "Panik TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/paniktv"
+    },
+    {
+      "name": "Panorama FM",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/panoramafm"
+    },
+    {
+      "name": "Persiana Music",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/persianamusic"
+    },
+    {
+      "name": "Persiana Sonnati",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/persianasonnati"
+    },
+    {
+      "name": "QMusic Netherlands TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/qmusicholanda"
+    },
+    {
+      "name": "Qello Concerts by Stingray",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/qelloconcertsbystingray"
+    },
+    {
+      "name": "Radio Ibiza TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/radioibizatv"
+    },
+    {
+      "name": "SOY Plancha TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/soyplanchatv"
+    },
+    {
+      "name": "Sol Música España",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/solmusicaspain"
+    },
+    {
+      "name": "Stingray Classic Rock",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/stingrayclassicrock"
+    },
+    {
+      "name": "Stingray Remember the 80s",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/stingrayrememberthe80s"
+    },
+    {
+      "name": "Stingray Rock Alternative",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/stingrayrockalternative"
+    },
+    {
+      "name": "Stingray The Spa",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/stingraythespa"
+    },
+    {
+      "name": "Stingray Today´s KPOP",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/stingraytodayskpop"
+    },
+    {
+      "name": "XPTV1",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/xptv1"
+    },
+    {
+      "name": "stingraysmoothjazz",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/stingraysmoothjazz"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-02280-02519"
+}
