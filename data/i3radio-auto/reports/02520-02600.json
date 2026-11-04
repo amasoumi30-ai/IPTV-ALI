@@ -1,0 +1,31 @@
+{
+  "range": "02520-02600",
+  "scanned_pages": 81,
+  "candidate_stream_urls_tested": 8,
+  "distinct_video_working_urls": 7,
+  "pages_with_working_video": 4,
+  "working_page_names": [
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/lamoradaradiotv"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/ptcmusic"
+    },
+    {
+      "name": "Opt out of the sale or sharing of personal information",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/kronehit"
+    },
+    {
+      "name": "V Classic TV",
+      "genre": "Music",
+      "page": "https://www.i3radio.com/user/vclassictv"
+    }
+  ],
+  "warning": "Playback probe does not establish identity, permission or uptime.",
+  "zip_in_workflow_artifacts": "i3radio-02520-02600"
+}
