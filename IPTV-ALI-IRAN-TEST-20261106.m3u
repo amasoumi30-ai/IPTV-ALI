@@ -1,0 +1,33 @@
+#EXTM3U
+#PLAYLIST:IPTV ALI - Iranian TV test - Nov 06 2026
+# Source A/B for IRIB 1 2 3. Availability and geoblocking have not been verified.
+#EXTINF:-1 tvg-id="IRIB1.ir" group-title="IRIB 1",IRIB TV1 - Source A
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB1.ir" group-title="IRIB 1",IRIB TV1 - Source B
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" group-title="IRIB 2",IRIB TV2 - Source A
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" group-title="IRIB 2",IRIB TV2 - Source B
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" group-title="IRIB 3",IRIB TV3 - Source A
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" group-title="IRIB 3",IRIB TV3 - Source B
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" group-title="IRIB Other",IRIB TV4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" group-title="IRIB Other",IRIB TV5 - Tehran
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir" group-title="IRIB Sport",IRIB Varzesh
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir" group-title="IRIB Other",IRIB Mostanad
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBOmid.ir" group-title="IRIB Other",IRIB Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NasimTV.ir" group-title="IRIB Other",IRIB Nasim
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-id="iFilmEnglish.ir" group-title="Persian Films",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFilm.ir" group-title="Persian Films",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="IranInternational.ir" group-title="Persian News",Iran International
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
