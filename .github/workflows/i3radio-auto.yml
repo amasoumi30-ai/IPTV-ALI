@@ -1,12 +1,7 @@
 name: IPTV-ALI i3radio automatic TV scan
 
 on:
-  push:
-    paths:
-      - ".github/workflows/i3radio-auto.yml"
   workflow_dispatch:
-  schedule:
-    - cron: "23 */2 * * *"
 
 permissions:
   contents: write
